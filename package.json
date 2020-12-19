@@ -1,0 +1,23 @@
+{
+  "name": "christmas2020",
+  "version": "1.0.0",
+  "description": "Christmas Card to the Family",
+  "main": "./src/index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenLJackson1/Christmas-2020-Jacksons.git"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "christmas",
+    "card",
+    "slideshow"
+  ],
+  "author": "Steve",
+  "dependencies": {
+    "reveal.js": "^4.1.0"
+  }
+}
